@@ -1,6 +1,6 @@
 {
   "version": "0.1.7",
-  "description": "Organizational code knowledge base CLI",
+  "description": "Code knowledge graph runtime for engineering teams and coding agents",
   "homepage": "https://github.com/TysonLabs/atlaskb",
   "license": "Proprietary",
   "architecture": {
