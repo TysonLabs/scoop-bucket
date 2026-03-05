@@ -12,6 +12,7 @@ scoop bucket add tysonlabs https://github.com/TysonLabs/scoop-bucket
 
 ```powershell
 scoop install atlaskb
+scoop install lazyide
 ```
 
 ## Available Manifests
